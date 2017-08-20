@@ -1,0 +1,5 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Huawei_Campus_2014_9\bin\Debug\Huawei_Campus_2014_9.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Huawei_Campus_2014_9\bin\Debug\Huawei_Campus_2014_9.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Huawei_Campus_2014_9\obj\Debug\Huawei_Campus_2014_9.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Huawei_Campus_2014_9\obj\Debug\Huawei_Campus_2014_9.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Huawei_Campus_2014_9\obj\Debug\Huawei_Campus_2014_9.pdb

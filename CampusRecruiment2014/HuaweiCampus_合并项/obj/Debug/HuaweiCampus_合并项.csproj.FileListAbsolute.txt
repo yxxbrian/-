@@ -1,0 +1,5 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\HuaweiCampus_合并项\bin\Debug\HuaweiCampus_合并项.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\HuaweiCampus_合并项\bin\Debug\HuaweiCampus_合并项.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\HuaweiCampus_合并项\obj\Debug\HuaweiCampus_合并项.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\HuaweiCampus_合并项\obj\Debug\HuaweiCampus_合并项.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\HuaweiCampus_合并项\obj\Debug\HuaweiCampus_合并项.pdb

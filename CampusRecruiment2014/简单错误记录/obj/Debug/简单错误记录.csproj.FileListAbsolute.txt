@@ -1,0 +1,10 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\简单错误记录\bin\Debug\简单错误记录.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\简单错误记录\bin\Debug\简单错误记录.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\简单错误记录\obj\Debug\简单错误记录.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\简单错误记录\obj\Debug\简单错误记录.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\简单错误记录\obj\Debug\简单错误记录.pdb
+E:\求职\华为\校招机试\CampusRecruiment2014\简单错误记录\bin\Debug\简单错误记录.exe
+E:\求职\华为\校招机试\CampusRecruiment2014\简单错误记录\bin\Debug\简单错误记录.pdb
+E:\求职\华为\校招机试\CampusRecruiment2014\简单错误记录\obj\Debug\简单错误记录.csprojResolveAssemblyReference.cache
+E:\求职\华为\校招机试\CampusRecruiment2014\简单错误记录\obj\Debug\简单错误记录.exe
+E:\求职\华为\校招机试\CampusRecruiment2014\简单错误记录\obj\Debug\简单错误记录.pdb

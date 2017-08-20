@@ -1,0 +1,5 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\OrderBy_for_List_Dic\bin\Debug\OrderBy_for_List_Dic.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\OrderBy_for_List_Dic\bin\Debug\OrderBy_for_List_Dic.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\OrderBy_for_List_Dic\obj\Debug\OrderBy_for_List_Dic.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\OrderBy_for_List_Dic\obj\Debug\OrderBy_for_List_Dic.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\OrderBy_for_List_Dic\obj\Debug\OrderBy_for_List_Dic.pdb

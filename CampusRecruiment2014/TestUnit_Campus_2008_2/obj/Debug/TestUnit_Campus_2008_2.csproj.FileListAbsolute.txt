@@ -1,0 +1,5 @@
+E:\求职\华为\校招机试\CampusRecruiment2014\TestUnit_Campus_2008_2\bin\Debug\TestUnit_Campus_2008_2.dll
+E:\求职\华为\校招机试\CampusRecruiment2014\TestUnit_Campus_2008_2\bin\Debug\TestUnit_Campus_2008_2.pdb
+E:\求职\华为\校招机试\CampusRecruiment2014\TestUnit_Campus_2008_2\obj\Debug\TestUnit_Campus_2008_2.csprojResolveAssemblyReference.cache
+E:\求职\华为\校招机试\CampusRecruiment2014\TestUnit_Campus_2008_2\obj\Debug\TestUnit_Campus_2008_2.dll
+E:\求职\华为\校招机试\CampusRecruiment2014\TestUnit_Campus_2008_2\obj\Debug\TestUnit_Campus_2008_2.pdb

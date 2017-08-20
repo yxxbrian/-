@@ -1,0 +1,4 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Huawei_Campus_2014_4\bin\Debug\Huawei_Campus_2014_4.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Huawei_Campus_2014_4\bin\Debug\Huawei_Campus_2014_4.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Huawei_Campus_2014_4\obj\Debug\Huawei_Campus_2014_4.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Huawei_Campus_2014_4\obj\Debug\Huawei_Campus_2014_4.pdb

@@ -1,0 +1,4 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\自守数\bin\Debug\自守数.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\自守数\bin\Debug\自守数.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\自守数\obj\Debug\自守数.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\自守数\obj\Debug\自守数.pdb

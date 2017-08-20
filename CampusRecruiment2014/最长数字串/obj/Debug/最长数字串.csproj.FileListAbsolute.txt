@@ -1,0 +1,4 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\最长数字串\bin\Debug\最长数字串.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\最长数字串\bin\Debug\最长数字串.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\最长数字串\obj\Debug\最长数字串.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\最长数字串\obj\Debug\最长数字串.pdb

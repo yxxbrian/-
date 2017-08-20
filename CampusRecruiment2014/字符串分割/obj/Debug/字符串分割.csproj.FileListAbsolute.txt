@@ -1,0 +1,5 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\字符串分割\bin\Debug\字符串分割.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\字符串分割\bin\Debug\字符串分割.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\字符串分割\obj\Debug\字符串分割.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\字符串分割\obj\Debug\字符串分割.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\字符串分割\obj\Debug\字符串分割.pdb

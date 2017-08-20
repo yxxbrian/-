@@ -1,0 +1,7 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Campus_2018_1\bin\Debug\Campus_2018_1.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Campus_2018_1\bin\Debug\Campus_2018_1.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Campus_2018_1\obj\Debug\Campus_2018_1.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Campus_2018_1\obj\Debug\Campus_2018_1.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\Campus_2018_1\obj\Debug\Campus_2018_1.pdb
+E:\求职\华为\校招机试\CampusRecruiment2014\Campus_2018_1\obj\Debug\Campus_2018_1.exe
+E:\求职\华为\校招机试\CampusRecruiment2014\Campus_2018_1\obj\Debug\Campus_2018_1.pdb

@@ -1,0 +1,5 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\CampusRecruiment2014\bin\Debug\CampusRecruiment2014.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\CampusRecruiment2014\bin\Debug\CampusRecruiment2014.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\CampusRecruiment2014\obj\Debug\CampusRecruiment2014.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\CampusRecruiment2014\obj\Debug\CampusRecruiment2014.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\CampusRecruiment2014\obj\Debug\CampusRecruiment2014.pdb

@@ -1,0 +1,5 @@
+E:\CSharpProjects\LeetCode\TestProj\TestProj\bin\Debug\TestProj.exe
+E:\CSharpProjects\LeetCode\TestProj\TestProj\bin\Debug\TestProj.pdb
+E:\CSharpProjects\LeetCode\TestProj\TestProj\obj\Debug\TestProj.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\LeetCode\TestProj\TestProj\obj\Debug\TestProj.exe
+E:\CSharpProjects\LeetCode\TestProj\TestProj\obj\Debug\TestProj.pdb

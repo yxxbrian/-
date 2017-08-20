@@ -1,0 +1,4 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\AddSum\bin\Debug\AddSum.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\AddSum\bin\Debug\AddSum.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\AddSum\obj\Debug\AddSum.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\AddSum\obj\Debug\AddSum.pdb

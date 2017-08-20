@@ -1,0 +1,5 @@
+E:\CSharpProjects\语言机制学习\语言机制学习\GC\obj\Debug\GC.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\语言机制学习\语言机制学习\GC\bin\Debug\GC.exe
+E:\CSharpProjects\语言机制学习\语言机制学习\GC\bin\Debug\GC.pdb
+E:\CSharpProjects\语言机制学习\语言机制学习\GC\obj\Debug\GC.exe
+E:\CSharpProjects\语言机制学习\语言机制学习\GC\obj\Debug\GC.pdb

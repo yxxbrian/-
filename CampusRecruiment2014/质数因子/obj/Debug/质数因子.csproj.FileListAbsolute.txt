@@ -1,0 +1,5 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\质数因子\bin\Debug\质数因子.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\质数因子\bin\Debug\质数因子.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\质数因子\obj\Debug\质数因子.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\质数因子\obj\Debug\质数因子.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\质数因子\obj\Debug\质数因子.pdb

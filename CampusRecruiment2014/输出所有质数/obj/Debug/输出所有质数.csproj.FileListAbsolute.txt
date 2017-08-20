@@ -1,0 +1,5 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\输出所有质数\bin\Debug\输出所有质数.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\输出所有质数\bin\Debug\输出所有质数.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\输出所有质数\obj\Debug\输出所有质数.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\输出所有质数\obj\Debug\输出所有质数.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\输出所有质数\obj\Debug\输出所有质数.pdb

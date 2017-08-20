@@ -1,0 +1,5 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\递推公式\bin\Debug\递推公式.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\递推公式\bin\Debug\递推公式.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\递推公式\obj\Debug\递推公式.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\递推公式\obj\Debug\递推公式.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\递推公式\obj\Debug\递推公式.pdb

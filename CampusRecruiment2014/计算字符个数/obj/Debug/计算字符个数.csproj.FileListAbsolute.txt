@@ -1,0 +1,4 @@
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\计算字符个数\bin\Debug\计算字符个数.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\计算字符个数\bin\Debug\计算字符个数.pdb
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\计算字符个数\obj\Debug\计算字符个数.exe
+E:\CSharpProjects\HuaWei\CampusRecruiment2014\计算字符个数\obj\Debug\计算字符个数.pdb
