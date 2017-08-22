@@ -1,5 +1,0 @@
-E:\CSharpProjects\DataStructures\LinkedTableReverse\LinkedTableReverse\bin\Debug\LinkedTableReverse.exe
-E:\CSharpProjects\DataStructures\LinkedTableReverse\LinkedTableReverse\bin\Debug\LinkedTableReverse.pdb
-E:\CSharpProjects\DataStructures\LinkedTableReverse\LinkedTableReverse\obj\Debug\LinkedTableReverse.csprojResolveAssemblyReference.cache
-E:\CSharpProjects\DataStructures\LinkedTableReverse\LinkedTableReverse\obj\Debug\LinkedTableReverse.exe
-E:\CSharpProjects\DataStructures\LinkedTableReverse\LinkedTableReverse\obj\Debug\LinkedTableReverse.pdb

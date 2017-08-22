@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedTableReverse", "LinkedTableReverse\LinkedTableReverse.csproj", "{4774D621-F6D4-4168-BEC0-25DEC03BA8F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉树遍历", "二叉树遍历\二叉树遍历.csproj", "{328E3F64-D6E5-484C-97B2-DCF76F7FF84A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉树先序转中序", "二叉树先序转中序\二叉树先序转中序.csproj", "{1EFC16D9-BC8F-4BE7-B1C4-A393F65C68F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉树前序中序求后序", "二叉树前序中序求后序\二叉树前序中序求后序.csproj", "{BB549C9D-3D24-4B1D-BD5B-5D91A09EB331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4774D621-F6D4-4168-BEC0-25DEC03BA8F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4774D621-F6D4-4168-BEC0-25DEC03BA8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4774D621-F6D4-4168-BEC0-25DEC03BA8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4774D621-F6D4-4168-BEC0-25DEC03BA8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328E3F64-D6E5-484C-97B2-DCF76F7FF84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328E3F64-D6E5-484C-97B2-DCF76F7FF84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328E3F64-D6E5-484C-97B2-DCF76F7FF84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328E3F64-D6E5-484C-97B2-DCF76F7FF84A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFC16D9-BC8F-4BE7-B1C4-A393F65C68F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFC16D9-BC8F-4BE7-B1C4-A393F65C68F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFC16D9-BC8F-4BE7-B1C4-A393F65C68F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFC16D9-BC8F-4BE7-B1C4-A393F65C68F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB549C9D-3D24-4B1D-BD5B-5D91A09EB331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB549C9D-3D24-4B1D-BD5B-5D91A09EB331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB549C9D-3D24-4B1D-BD5B-5D91A09EB331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB549C9D-3D24-4B1D-BD5B-5D91A09EB331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

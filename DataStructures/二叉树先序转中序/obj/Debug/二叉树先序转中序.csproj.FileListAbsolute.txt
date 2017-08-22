@@ -1,0 +1,5 @@
+E:\CSharpProjects\软件工程师超神之路\DataStructures\二叉树先序转中序\bin\Debug\二叉树先序转中序.exe
+E:\CSharpProjects\软件工程师超神之路\DataStructures\二叉树先序转中序\bin\Debug\二叉树先序转中序.pdb
+E:\CSharpProjects\软件工程师超神之路\DataStructures\二叉树先序转中序\obj\Debug\二叉树先序转中序.csprojResolveAssemblyReference.cache
+E:\CSharpProjects\软件工程师超神之路\DataStructures\二叉树先序转中序\obj\Debug\二叉树先序转中序.exe
+E:\CSharpProjects\软件工程师超神之路\DataStructures\二叉树先序转中序\obj\Debug\二叉树先序转中序.pdb

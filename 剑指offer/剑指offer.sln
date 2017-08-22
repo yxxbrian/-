@@ -11,6 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串空格替换", "�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "从尾到头打印链表", "从尾到头打印链表\从尾到头打印链表.csproj", "{759FD244-7946-4FDD-8807-0C9373B6524B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "用栈实现队列", "用栈实现队列\用栈实现队列.csproj", "{145CB0FB-B6AD-46DE-9D02-6F6F46A194DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "旋转数组", "旋转数组\旋转数组.csproj", "{88550514-7A99-4365-B943-A80781810F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "背包问题", "背包问题\背包问题.csproj", "{72D36B73-BD46-4D80-BB20-1FEFD2B7CB93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01背包问题", "01背包问题\01背包问题.csproj", "{EDE8544E-0365-4EC0-9221-05DFAA3D335D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +41,22 @@ Global
 		{759FD244-7946-4FDD-8807-0C9373B6524B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{759FD244-7946-4FDD-8807-0C9373B6524B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{759FD244-7946-4FDD-8807-0C9373B6524B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145CB0FB-B6AD-46DE-9D02-6F6F46A194DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145CB0FB-B6AD-46DE-9D02-6F6F46A194DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145CB0FB-B6AD-46DE-9D02-6F6F46A194DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145CB0FB-B6AD-46DE-9D02-6F6F46A194DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88550514-7A99-4365-B943-A80781810F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88550514-7A99-4365-B943-A80781810F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88550514-7A99-4365-B943-A80781810F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88550514-7A99-4365-B943-A80781810F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D36B73-BD46-4D80-BB20-1FEFD2B7CB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D36B73-BD46-4D80-BB20-1FEFD2B7CB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D36B73-BD46-4D80-BB20-1FEFD2B7CB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D36B73-BD46-4D80-BB20-1FEFD2B7CB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDE8544E-0365-4EC0-9221-05DFAA3D335D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE8544E-0365-4EC0-9221-05DFAA3D335D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE8544E-0365-4EC0-9221-05DFAA3D335D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE8544E-0365-4EC0-9221-05DFAA3D335D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
