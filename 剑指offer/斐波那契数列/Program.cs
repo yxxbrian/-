@@ -31,8 +31,10 @@ namespace 斐波那契数列
             return array[index];
         }
         */
-        public int Fibonacci(int n) 
+        public int Fibonacci(int n)
         {
+            if (n == 0)
+                return 0;
             int num1 = 1;
             int num2 = 0;
             int tmp = 0;

@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01背包问题", "01背包�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "斐波那契数列", "斐波那契数列\斐波那契数列.csproj", "{9383FCE6-FE42-4E8E-88C1-6652FA5AC9FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "跳台阶", "跳台阶\跳台阶.csproj", "{EC3E1310-5447-4265-AC2A-4A85E026B776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "变态跳台阶", "变态跳台阶\变态跳台阶.csproj", "{1BD4A852-6CBE-463C-BBCC-6B3AE4074327}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{9383FCE6-FE42-4E8E-88C1-6652FA5AC9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9383FCE6-FE42-4E8E-88C1-6652FA5AC9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9383FCE6-FE42-4E8E-88C1-6652FA5AC9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3E1310-5447-4265-AC2A-4A85E026B776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3E1310-5447-4265-AC2A-4A85E026B776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3E1310-5447-4265-AC2A-4A85E026B776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3E1310-5447-4265-AC2A-4A85E026B776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD4A852-6CBE-463C-BBCC-6B3AE4074327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD4A852-6CBE-463C-BBCC-6B3AE4074327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD4A852-6CBE-463C-BBCC-6B3AE4074327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD4A852-6CBE-463C-BBCC-6B3AE4074327}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

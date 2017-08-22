@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>0d964739-055a-459a-bae5-2e509085d167</ProjectGuid>
+    <ProjectGuid>{1BD4A852-6CBE-463C-BBCC-6B3AE4074327}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>变态跳台阶</RootNamespace>

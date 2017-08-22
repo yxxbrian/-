@@ -18,6 +18,7 @@ namespace 变态跳台阶
             public int jumpFloorII(int number)
             {
                 int[] dp = new int[number + 1];
+                dp[0] = 1;
                 dp[1] = 1;
                 // write code here
                 for (int i = 2; i <= number; i++)
