@@ -52,8 +52,8 @@ namespace 数值的整数次方
                 }
                 else 
                 {
-                    for (int i = 0; i > exponent; i++)
-                        res / thebase;
+                    for (int i = 0; i > exponent; i--)
+                        res /= thebase;
                 }
             }
             return res;

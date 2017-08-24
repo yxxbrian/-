@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "远景能源_PAT", "远景�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组中重复的数字", "数组中重复的数字\数组中重复的数字.csproj", "{B91E1F9A-2766-455D-87CD-BA75BF31EEC2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeTest", "DateTimeTest\DateTimeTest.csproj", "{496B7DE9-EDAA-41D5-898E-6FCC51F0756D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B91E1F9A-2766-455D-87CD-BA75BF31EEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B91E1F9A-2766-455D-87CD-BA75BF31EEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B91E1F9A-2766-455D-87CD-BA75BF31EEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496B7DE9-EDAA-41D5-898E-6FCC51F0756D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496B7DE9-EDAA-41D5-898E-6FCC51F0756D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496B7DE9-EDAA-41D5-898E-6FCC51F0756D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496B7DE9-EDAA-41D5-898E-6FCC51F0756D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

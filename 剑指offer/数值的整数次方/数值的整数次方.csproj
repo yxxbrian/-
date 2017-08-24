@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>2ee7e2ac-cec6-4580-9574-13ab39f4dd3f</ProjectGuid>
+    <ProjectGuid>{00CCE421-6858-4E69-BBF4-71D9A13C7737}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>数值的整数次方</RootNamespace>
