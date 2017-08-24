@@ -31,6 +31,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "整数二进制包含1的�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数值的整数次方", "数值的整数次方\数值的整数次方.csproj", "{00CCE421-6858-4E69-BBF4-71D9A13C7737}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "调整数组顺序使奇数位于偶数前面", "调整数组顺序使奇数位于偶数前面\调整数组顺序使奇数位于偶数前面.csproj", "{5B2E9B2D-20E5-487E-9D32-5F0A0D70C033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "链表中倒数第K个节点", "链表中倒数第K个节点\链表中倒数第K个节点.csproj", "{2F7710CF-B8A0-461C-A3D6-AF596AE0AA0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +97,14 @@ Global
 		{00CCE421-6858-4E69-BBF4-71D9A13C7737}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00CCE421-6858-4E69-BBF4-71D9A13C7737}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00CCE421-6858-4E69-BBF4-71D9A13C7737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2E9B2D-20E5-487E-9D32-5F0A0D70C033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2E9B2D-20E5-487E-9D32-5F0A0D70C033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2E9B2D-20E5-487E-9D32-5F0A0D70C033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2E9B2D-20E5-487E-9D32-5F0A0D70C033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7710CF-B8A0-461C-A3D6-AF596AE0AA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7710CF-B8A0-461C-A3D6-AF596AE0AA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7710CF-B8A0-461C-A3D6-AF596AE0AA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7710CF-B8A0-461C-A3D6-AF596AE0AA0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
