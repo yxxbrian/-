@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "调整数组顺序使奇数
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "链表中倒数第K个节点", "链表中倒数第K个节点\链表中倒数第K个节点.csproj", "{2F7710CF-B8A0-461C-A3D6-AF596AE0AA0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "反转链表", "反转链表\反转链表.csproj", "{F1B37E1C-A64C-4F2A-B261-859C461D6171}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{2F7710CF-B8A0-461C-A3D6-AF596AE0AA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F7710CF-B8A0-461C-A3D6-AF596AE0AA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F7710CF-B8A0-461C-A3D6-AF596AE0AA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1B37E1C-A64C-4F2A-B261-859C461D6171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B37E1C-A64C-4F2A-B261-859C461D6171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B37E1C-A64C-4F2A-B261-859C461D6171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B37E1C-A64C-4F2A-B261-859C461D6171}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
