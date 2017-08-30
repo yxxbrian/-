@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>c71291bc-52b1-4745-9d78-5c7d8dc55640</ProjectGuid>
+    <ProjectGuid>{396063F5-5CE4-40B8-8E89-EA0771CDB01B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>合并两个排序的链表</RootNamespace>
