@@ -39,6 +39,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "反转链表", "反转链�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "合并两个排序的链表", "合并两个排序的链表\合并两个排序的链表.csproj", "{396063F5-5CE4-40B8-8E89-EA0771CDB01B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "树的子结构", "树的子结构\树的子结构.csproj", "{149D3891-11E1-47AA-A693-ACBE83033F21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉树的镜像", "二叉树的镜像\二叉树的镜像.csproj", "{9800C56B-2E82-4344-9702-A64A5F346415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "顺时针打印矩阵", "顺时针打印数组\顺时针打印矩阵.csproj", "{36401DBD-874F-4FF8-9272-42CF7681EBB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "包含min函数的栈", "包含min函数的栈\包含min函数的栈.csproj", "{AA3265C0-7254-4CF5-BF0D-F711115CB925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "栈的压入弹出队列", "栈的压入弹出队列\栈的压入弹出队列.csproj", "{2C5BCA23-75C3-4645-88AF-B66D9AAD11BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "从上往下打印二叉树", "从上往下打印二叉树\从上往下打印二叉树.csproj", "{FEAAFF98-B5BA-4886-9873-EED23B22C41D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +129,30 @@ Global
 		{396063F5-5CE4-40B8-8E89-EA0771CDB01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{396063F5-5CE4-40B8-8E89-EA0771CDB01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{396063F5-5CE4-40B8-8E89-EA0771CDB01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149D3891-11E1-47AA-A693-ACBE83033F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149D3891-11E1-47AA-A693-ACBE83033F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149D3891-11E1-47AA-A693-ACBE83033F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149D3891-11E1-47AA-A693-ACBE83033F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9800C56B-2E82-4344-9702-A64A5F346415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9800C56B-2E82-4344-9702-A64A5F346415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9800C56B-2E82-4344-9702-A64A5F346415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9800C56B-2E82-4344-9702-A64A5F346415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36401DBD-874F-4FF8-9272-42CF7681EBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36401DBD-874F-4FF8-9272-42CF7681EBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36401DBD-874F-4FF8-9272-42CF7681EBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36401DBD-874F-4FF8-9272-42CF7681EBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3265C0-7254-4CF5-BF0D-F711115CB925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3265C0-7254-4CF5-BF0D-F711115CB925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3265C0-7254-4CF5-BF0D-F711115CB925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3265C0-7254-4CF5-BF0D-F711115CB925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C5BCA23-75C3-4645-88AF-B66D9AAD11BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5BCA23-75C3-4645-88AF-B66D9AAD11BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5BCA23-75C3-4645-88AF-B66D9AAD11BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5BCA23-75C3-4645-88AF-B66D9AAD11BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEAAFF98-B5BA-4886-9873-EED23B22C41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAAFF98-B5BA-4886-9873-EED23B22C41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAAFF98-B5BA-4886-9873-EED23B22C41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAAFF98-B5BA-4886-9873-EED23B22C41D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
