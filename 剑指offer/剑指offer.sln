@@ -51,6 +51,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "栈的压入弹出队列", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "从上往下打印二叉树", "从上往下打印二叉树\从上往下打印二叉树.csproj", "{FEAAFF98-B5BA-4886-9873-EED23B22C41D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉查找树的后序遍历序列", "二叉查找树的后序遍历序列\二叉查找树的后序遍历序列.csproj", "{5EB70FA9-68D2-4E16-898A-F74DA952BF21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二叉树中和为某一值的路径", "二叉树中和为某一值的路径\二叉树中和为某一值的路径.csproj", "{EAF16871-0AC6-4CBC-8694-677AC6004731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "复杂链表的复制", "复杂链表的复制\复杂链表的复制.csproj", "{375F54BD-4BA9-4283-99FF-477251FB454F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +159,18 @@ Global
 		{FEAAFF98-B5BA-4886-9873-EED23B22C41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEAAFF98-B5BA-4886-9873-EED23B22C41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEAAFF98-B5BA-4886-9873-EED23B22C41D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB70FA9-68D2-4E16-898A-F74DA952BF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB70FA9-68D2-4E16-898A-F74DA952BF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB70FA9-68D2-4E16-898A-F74DA952BF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB70FA9-68D2-4E16-898A-F74DA952BF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF16871-0AC6-4CBC-8694-677AC6004731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF16871-0AC6-4CBC-8694-677AC6004731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF16871-0AC6-4CBC-8694-677AC6004731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF16871-0AC6-4CBC-8694-677AC6004731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375F54BD-4BA9-4283-99FF-477251FB454F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375F54BD-4BA9-4283-99FF-477251FB454F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375F54BD-4BA9-4283-99FF-477251FB454F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375F54BD-4BA9-4283-99FF-477251FB454F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

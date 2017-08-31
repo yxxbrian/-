@@ -22,7 +22,7 @@ namespace 从上往下打印二叉树
             TreeNode root = new TreeNode(10);
             root.left = node4;
             root.right = node5;
-            List<int> res = new Solution().PrintFromTopToBottom(root);
+            List<int> res = new Solution1().PrintFromTopToBottom(root);
         }
 
 
@@ -37,7 +37,32 @@ namespace 从上往下打印二叉树
                 val = x;
             }
         }
+        class Solution1
+        {
+            public List<int> PrintFromTopToBottom(TreeNode root)
+            {
+                List<TreeNode> treeNodes = new List<TreeNode>();
+                if (root == null)
+                    return new List<int>();
+                treeNodes.Add(root);
+                List<int> result = new List<int>();
+                int i = 0;
+                while (i < treeNodes.Count)
+                {
+                    result.Add(treeNodes[i].val);
+                    if (treeNodes[i].left != null)
+                        treeNodes.Add(treeNodes[i].left);
+                    if (treeNodes[i].right != null)
+                        treeNodes.Add(treeNodes[i].right);
+                    i++;
+                }
+                return result;
+            }
+        }
 
+
+
+        //37 ms	3056K
         class Solution
         {
             public List<int> PrintFromTopToBottom(TreeNode root)
