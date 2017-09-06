@@ -19,7 +19,7 @@ namespace 字符串空格替换
 
 
         //24 ms	2788K
-        public string replaceSpace(string str)
+        public string replaceSpace1(string str)
         {
             // write code here
             int length = str.Length;
