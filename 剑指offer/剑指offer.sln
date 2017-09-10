@@ -101,6 +101,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "孩子们的游戏（圆圈
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符串转换成整数", "字符串转换成证书\字符串转换成整数.csproj", "{81B901C7-BEC6-42F0-9017-E71A658B9F1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "不用加减乘除做加法", "不用加减乘除做加法\不用加减乘除做加法.csproj", "{BD0325FD-E2F6-4E14-8EA2-AB4653CC04A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "构建乘积数组", "构建乘积数组\构建乘积数组.csproj", "{400F6CFC-B86A-492F-937F-899F1F958633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "正则表达式匹配", "正则表达式匹配\正则表达式匹配.csproj", "{3478EFFE-4BA0-48CC-96E7-4C436C206BE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字符流中第一个不重复的字符", "字符流中第一个不重复的字符\字符流中第一个不重复的字符.csproj", "{019F7F79-3432-4C6C-A045-7CEB9C4EE622}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +311,22 @@ Global
 		{81B901C7-BEC6-42F0-9017-E71A658B9F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81B901C7-BEC6-42F0-9017-E71A658B9F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81B901C7-BEC6-42F0-9017-E71A658B9F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0325FD-E2F6-4E14-8EA2-AB4653CC04A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0325FD-E2F6-4E14-8EA2-AB4653CC04A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0325FD-E2F6-4E14-8EA2-AB4653CC04A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0325FD-E2F6-4E14-8EA2-AB4653CC04A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400F6CFC-B86A-492F-937F-899F1F958633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400F6CFC-B86A-492F-937F-899F1F958633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400F6CFC-B86A-492F-937F-899F1F958633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400F6CFC-B86A-492F-937F-899F1F958633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3478EFFE-4BA0-48CC-96E7-4C436C206BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3478EFFE-4BA0-48CC-96E7-4C436C206BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3478EFFE-4BA0-48CC-96E7-4C436C206BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3478EFFE-4BA0-48CC-96E7-4C436C206BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{019F7F79-3432-4C6C-A045-7CEB9C4EE622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019F7F79-3432-4C6C-A045-7CEB9C4EE622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019F7F79-3432-4C6C-A045-7CEB9C4EE622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019F7F79-3432-4C6C-A045-7CEB9C4EE622}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
